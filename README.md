@@ -1,1 +1,1 @@
-# Calculadora JavaScript
+# Calculator JavaScript
